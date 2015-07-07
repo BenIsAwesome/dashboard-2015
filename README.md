@@ -9,3 +9,7 @@ Shortcut keys important to me:
 *** note that the colon symbol has no effect here until you press escape and then you can actually go in and start editing text using the full keyboard.
 
 :i = insert mode  (allows you to go in and edit the file that you have opened up)
+
+
+to open up the config type:
+vim ~/.gitconfig
